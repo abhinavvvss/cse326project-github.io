@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .profile {
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .profile img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
